@@ -96,3 +96,7 @@ The system only works if evidence is real. An LLM (or you at 1am) ticking a box
 without running the command is the same lie as before, in nicer clothes. Hence:
 audits *re-run* auto evidence, human evidence has an expiry, and the weekly
 review asks only one question — did the score move — which cannot be vibed.
+
+## License
+
+[MIT](LICENSE) — © 2026 trbck
